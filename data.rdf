@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <!-- Movie 1 -->
+  <rdf:Description rdf:about="http://example.org/movie/1">
+    <dc:title>Inception</dc:title>
+    <dc:creator>Christopher Nolan</dc:creator>
+    <dc:subject>Science Fiction</dc:subject>
+  </rdf:Description>
+
+  <!-- Movie 2 -->
+  <rdf:Description rdf:about="http://example.org/movie/2">
+    <dc:title>The Matrix</dc:title>
+    <dc:creator>The Wachowskis</dc:creator>
+    <dc:subject>Action, Science Fiction</dc:subject>
+  </rdf:Description>
+
+  <!-- Movie 3 -->
+  <rdf:Description rdf:about="http://example.org/movie/3">
+    <dc:title>Interstellar</dc:title>
+    <dc:creator>Christopher Nolan</dc:creator>
+    <dc:subject>Drama, Science Fiction</dc:subject>
+  </rdf:Description>
+
+</rdf:RDF>
